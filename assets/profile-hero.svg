@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Zhi Tang — Biomedical Informatics and Computational Immunology">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1728"/>
+      <stop offset="0.55" stop-color="#0d1c2f"/>
+      <stop offset="1" stop-color="#111a22"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.28" r="0.6">
+      <stop offset="0" stop-color="#6db5c7" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#6db5c7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <path d="M720 245 C790 185 850 235 920 165 S1050 90 1140 130" fill="none" stroke="#d8aa56" stroke-width="2" stroke-opacity="0.55"/>
+  <path d="M715 235 C790 275 860 215 930 250 S1050 265 1150 215" fill="none" stroke="#6db5c7" stroke-width="2" stroke-opacity="0.45"/>
+  <g fill="#d8aa56">
+    <circle cx="760" cy="218" r="5"/><circle cx="842" cy="208" r="4"/><circle cx="922" cy="164" r="5"/><circle cx="1016" cy="117" r="4"/><circle cx="1115" cy="124" r="5"/>
+  </g>
+  <g fill="#6db5c7">
+    <circle cx="760" cy="252" r="4"/><circle cx="850" cy="226" r="5"/><circle cx="938" cy="252" r="4"/><circle cx="1037" cy="252" r="5"/><circle cx="1138" cy="219" r="4"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#9fb0c2" opacity="0.6">
+    <text x="742" y="76">TRAV · CDR3α · TRAJ</text>
+    <text x="926" y="98">TRBV · CDR3β · TRBJ</text>
+    <text x="824" y="292">QC → controls → evaluation → interpretation</text>
+  </g>
+  <text x="58" y="72" font-family="Inter, system-ui, sans-serif" font-size="15" letter-spacing="4" fill="#d8aa56">BIOMEDICAL INFORMATICS</text>
+  <text x="56" y="150" font-family="Inter, system-ui, sans-serif" font-size="66" font-weight="700" fill="#f4f6f8">Zhi Tang</text>
+  <text x="60" y="192" font-family="Inter, system-ui, sans-serif" font-size="24" fill="#f0d69c">唐直</text>
+  <text x="58" y="238" font-family="Inter, system-ui, sans-serif" font-size="20" fill="#b6c1cf">Computational immunology · TCR sequence analysis</text>
+  <text x="58" y="270" font-family="Inter, system-ui, sans-serif" font-size="18" fill="#8797aa">Zhejiang University–University of Edinburgh Institute</text>
+</svg>
