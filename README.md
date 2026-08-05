@@ -55,7 +55,7 @@ Python · Linux · Git · scikit-learn · ESM2 · SCEPTR
 <br>
 
 <p align="center">
-  <img src="https://garry-tang-274.github.io/assets/photography/hangzhou-qianjiang-panorama.webp" width="100%" alt="Qianjiang Century City panorama in Hangzhou">
+  <img src="https://garry-tang-274.github.io/assets/photography/hangzhou-qianjiang-panorama.webp?v=20260806-hq" width="100%" alt="Qianjiang Century City panorama in Hangzhou">
 </p>
 
 <p align="center"><sub>Qianjiang Century City · Hangzhou, 2026 · Nikon Z6 II</sub></p>
@@ -67,10 +67,10 @@ Python · Linux · Git · scikit-learn · ESM2 · SCEPTR
 <table>
   <tr>
     <td width="50%">
-      <img src="https://garry-tang-274.github.io/assets/photography/yangshuo-xianggong-river.webp" width="100%" alt="River and mountains viewed from Xianggong Mountain in Yangshuo">
+      <img src="https://garry-tang-274.github.io/assets/photography/yangshuo-xianggong-river.webp?v=20260806-hq" width="100%" alt="River and mountains viewed from Xianggong Mountain in Yangshuo">
     </td>
     <td width="50%">
-      <img src="https://garry-tang-274.github.io/assets/photography/xinjiang-desert-road.webp" width="100%" alt="Road crossing the Gobi landscape in Xinjiang">
+      <img src="https://garry-tang-274.github.io/assets/photography/xinjiang-desert-road.webp?v=20260806-hq" width="100%" alt="Road crossing the Gobi landscape in Xinjiang">
     </td>
   </tr>
   <tr>
@@ -79,10 +79,10 @@ Python · Linux · Git · scikit-learn · ESM2 · SCEPTR
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://garry-tang-274.github.io/assets/photography/chengdu-rain-couple.webp" width="100%" alt="Two people sharing an umbrella on a rainy street in Chengdu">
+      <img src="https://garry-tang-274.github.io/assets/photography/chengdu-rain-couple.webp?v=20260806-hq" width="100%" alt="Two people sharing an umbrella on a rainy street in Chengdu">
     </td>
     <td width="50%">
-      <img src="https://garry-tang-274.github.io/assets/photography/chengdu-heron-rain.webp" width="100%" alt="A heron standing in the rain in Chengdu">
+      <img src="https://garry-tang-274.github.io/assets/photography/chengdu-heron-rain.webp?v=20260806-hq" width="100%" alt="A heron standing in the rain in Chengdu">
     </td>
   </tr>
   <tr>
