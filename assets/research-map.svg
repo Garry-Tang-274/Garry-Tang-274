@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Research focus and evaluation workflow">
+  <rect width="1200" height="300" rx="22" fill="#0b1625"/>
+  <g font-family="Inter, system-ui, sans-serif">
+    <text x="42" y="42" font-size="14" letter-spacing="3" fill="#d8aa56">RESEARCH MAP</text>
+    <text x="42" y="72" font-size="18" fill="#9fb0c2">Current questions, methods, and working tools</text>
+  </g>
+  <g transform="translate(38 98)" font-family="Inter, system-ui, sans-serif">
+    <g>
+      <rect width="260" height="104" rx="16" fill="#101f32" stroke="#314258"/>
+      <circle cx="34" cy="32" r="10" fill="#d8aa56"/>
+      <text x="56" y="37" font-size="17" font-weight="700" fill="#eef2f7">TCR sequences</text>
+      <text x="24" y="70" font-size="14" fill="#a7b2c2">αβ compatibility and repertoire data</text>
+      <text x="24" y="92" font-size="13" fill="#6db5c7">computational immunology</text>
+    </g>
+    <g transform="translate(284)">
+      <rect width="260" height="104" rx="16" fill="#101f32" stroke="#314258"/>
+      <circle cx="34" cy="32" r="10" fill="#6db5c7"/>
+      <text x="56" y="37" font-size="17" font-weight="700" fill="#eef2f7">Model evaluation</text>
+      <text x="24" y="70" font-size="14" fill="#a7b2c2">Leakage checks and matched controls</text>
+      <text x="24" y="92" font-size="13" fill="#d8aa56">ranking · CV · residuals</text>
+    </g>
+    <g transform="translate(568)">
+      <rect width="260" height="104" rx="16" fill="#101f32" stroke="#314258"/>
+      <circle cx="34" cy="32" r="10" fill="#d8aa56"/>
+      <text x="56" y="37" font-size="17" font-weight="700" fill="#eef2f7">Research computing</text>
+      <text x="24" y="70" font-size="14" fill="#a7b2c2">Linux, Git, remote analysis</text>
+      <text x="24" y="92" font-size="13" fill="#6db5c7">Python · scikit-learn</text>
+    </g>
+    <g transform="translate(852)">
+      <rect width="260" height="104" rx="16" fill="#101f32" stroke="#314258"/>
+      <circle cx="34" cy="32" r="10" fill="#6db5c7"/>
+      <text x="56" y="37" font-size="17" font-weight="700" fill="#eef2f7">Reproducibility</text>
+      <text x="24" y="70" font-size="14" fill="#a7b2c2">Auditable files and clear boundaries</text>
+      <text x="24" y="92" font-size="13" fill="#d8aa56">evidence before claims</text>
+    </g>
+  </g>
+  <g transform="translate(80 245)" font-family="Inter, system-ui, sans-serif" font-size="14" text-anchor="middle">
+    <line x1="80" y1="0" x2="960" y2="0" stroke="#34465d" stroke-width="2"/>
+    <g fill="#0b1625" stroke="#d8aa56" stroke-width="2">
+      <circle cx="80" cy="0" r="12"/><circle cx="300" cy="0" r="12"/><circle cx="520" cy="0" r="12"/><circle cx="740" cy="0" r="12"/><circle cx="960" cy="0" r="12"/>
+    </g>
+    <g fill="#c3ccd7">
+      <text x="80" y="38">Data QC</text><text x="300" y="38">Matched controls</text><text x="520" y="38">Evaluation</text><text x="740" y="38">Stress tests</text><text x="960" y="38">Interpretation</text>
+    </g>
+  </g>
+</svg>
