@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://garry-tang-274.github.io">Personal website</a> ·
   <a href="https://garry-tang-274.github.io/cv/">Academic CV</a> ·
-  <a href="mailto:zhi.25@intl.zju.edu.cn">Email</a>
+  <a href="mailto:zhi.25@intl.zju.edu.cn">Academic email</a> ·
+  <a href="mailto:garrytang247514@gmail.com">Personal email</a>
 </p>
 
 I am a Biomedical Informatics undergraduate at the Zhejiang University–University of Edinburgh Institute. My current work focuses on computational immunology, TCR sequence analysis, and careful evaluation of machine-learning methods for biological sequences.
@@ -18,7 +19,7 @@ I am a Biomedical Informatics undergraduate at the Zhejiang University–Univers
 
 ### TCR α–β pairing compatibility
 
-My current project examines how much information relevant to TCR α–β compatibility is retained in frozen sequence representations. The main emphasis is on experimental design and model capability assessment under strict leakage control.
+My current project examines how much information relevant to TCR α–β compatibility is retained in frozen sequence representations. The work centres on experimental design, leakage control, and model capability assessment.
 
 Current work includes:
 
@@ -54,27 +55,39 @@ Python · Linux · Git · scikit-learn · ESM2 · SCEPTR
 <br>
 
 <p align="center">
-  <img src="https://garry-tang-274.github.io/assets/photography/libo-karst-panorama.webp" width="100%" alt="Karst landscape in Libo, Guizhou">
+  <img src="https://garry-tang-274.github.io/assets/photography/hangzhou-qianjiang-panorama.webp" width="100%" alt="Qianjiang Century City panorama in Hangzhou">
 </p>
 
-<p align="center"><sub>Libo Karst · Guizhou, 2026 · DJI Mini 4 Pro</sub></p>
+<p align="center"><sub>Qianjiang Century City · Hangzhou, 2026 · Nikon Z6 II</sub></p>
 
-## Photography
+## Selected photographs
 
-Photography is a secondary part of this profile; the full collection is available on my [photography page](https://garry-tang-274.github.io/photography/).
+<p>More photographs are available on my <a href="https://garry-tang-274.github.io/photography/">photography page</a>.</p>
 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://garry-tang-274.github.io/assets/photography/hero-rock-silhouette.webp" width="100%" alt="A figure between rock formations in Xinjiang">
+      <img src="https://garry-tang-274.github.io/assets/photography/yangshuo-xianggong-river.webp" width="100%" alt="River and mountains viewed from Xianggong Mountain in Yangshuo">
     </td>
     <td width="50%">
-      <img src="https://garry-tang-274.github.io/assets/photography/chengdu-rain-couple.webp" width="100%" alt="Two people crossing a rainy street in Chengdu">
+      <img src="https://garry-tang-274.github.io/assets/photography/xinjiang-desert-road.webp" width="100%" alt="Road crossing the Gobi landscape in Xinjiang">
     </td>
   </tr>
   <tr>
-    <td align="center"><sub>Figure Between Rocks · Xinjiang, 2023</sub></td>
-    <td align="center"><sub>Rain Crossing · Chengdu, 2026</sub></td>
+    <td align="center"><sub>Xianggong Mountain · Yangshuo, 2025 · DJI Mini 4 Pro</sub></td>
+    <td align="center"><sub>Gobi Road · Xinjiang, 2023 · DJI Mini 2</sub></td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://garry-tang-274.github.io/assets/photography/chengdu-rain-couple.webp" width="100%" alt="Two people sharing an umbrella on a rainy street in Chengdu">
+    </td>
+    <td width="50%">
+      <img src="https://garry-tang-274.github.io/assets/photography/chengdu-heron-rain.webp" width="100%" alt="A heron standing in the rain in Chengdu">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Rain Crossing · Chengdu, 2026 · Nikon Z6 II</sub></td>
+    <td align="center"><sub>Heron in Rain · Chengdu, 2026 · Nikon Z6 II</sub></td>
   </tr>
 </table>
 
@@ -83,5 +96,6 @@ Photography is a secondary part of this profile; the full collection is availabl
 <p align="center">
   <a href="https://garry-tang-274.github.io">Website</a> ·
   <a href="https://github.com/Garry-Tang-274?tab=repositories">Repositories</a> ·
-  <a href="mailto:zhi.25@intl.zju.edu.cn">Contact</a>
+  <a href="mailto:zhi.25@intl.zju.edu.cn">zhi.25@intl.zju.edu.cn</a> ·
+  <a href="mailto:garrytang247514@gmail.com">garrytang247514@gmail.com</a>
 </p>
