@@ -80,11 +80,11 @@ I also contribute computational analysis planning for a National-Level Student R
 ## Photography
 
 <p align="center">
-  <a href="https://garry-tang-274.github.io/photography/">
-    <img src="https://garry-tang-274.github.io/assets/photography/hangzhou-qianjiang-panorama.webp?v=20260806-hq2" width="100%" alt="Qianjiang Century City panorama in Hangzhou">
+  <a href="https://garry-tang-274.github.io/assets/photography/hangzhou-qianjiang-panorama-hq.png?v=20260806-original">
+    <img src="https://garry-tang-274.github.io/assets/photography/hangzhou-qianjiang-panorama-hq.png?v=20260806-original" width="100%" alt="Qianjiang Century City panorama in Hangzhou">
   </a>
   <br>
-  <sub>Qianjiang Century City · Hangzhou, 2026 · Nikon Z6 II</sub>
+  <sub>Qianjiang Century City · Hangzhou, 2026 · Nikon Z6 II · Click to open original</sub>
 </p>
 
 <table>
