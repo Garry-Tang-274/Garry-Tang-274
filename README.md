@@ -1,15 +1,17 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Zhi Tang — Biomedical Informatics and Computational Immunology">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Zhi Tang — Biomedical Informatics, computational immunology, software and photography">
 </p>
 
 <p align="center">
   <a href="https://garry-tang-274.github.io"><img src="https://img.shields.io/badge/Personal_Website-d8aa56?style=for-the-badge&logo=githubpages&logoColor=07111f" alt="Personal website"></a>
+  <a href="https://github.com/Garry-Tang-274/AI-Lightroom"><img src="https://img.shields.io/badge/AI_Lightroom-0f766e?style=for-the-badge&logo=adobe&logoColor=ffffff" alt="AI Lightroom"></a>
   <a href="https://garry-tang-274.github.io/cv/"><img src="https://img.shields.io/badge/Academic_CV-17304a?style=for-the-badge&logo=readme&logoColor=ffffff" alt="Academic CV"></a>
   <a href="mailto:zhi.25@intl.zju.edu.cn"><img src="https://img.shields.io/badge/Academic_Email-17304a?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Academic email"></a>
-  <a href="mailto:garrytang247514@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-17304a?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Personal email"></a>
 </p>
 
-I am a Biomedical Informatics undergraduate at the Zhejiang University–University of Edinburgh Institute. My current work focuses on computational immunology, TCR sequence analysis, and reliable evaluation of machine-learning methods for biological data.
+I am a Biomedical Informatics undergraduate at the Zhejiang University–University of Edinburgh Institute. My current research focuses on computational immunology, TCR sequence analysis, and reliable evaluation of machine-learning methods for biological data. Outside research, I build small software tools and maintain a long-term photography archive.
+
+<sub>生物医学信息学本科生；目前主要做计算免疫学与 TCR 序列分析，同时持续进行软件开发与摄影。</sub>
 
 <table>
   <tr>
@@ -26,13 +28,25 @@ I am a Biomedical Informatics undergraduate at the Zhejiang University–Univers
       Leakage-aware evaluation
     </td>
     <td width="33%" valign="top">
-      <b>🛠 Working tools</b><br><br>
+      <b>🛠 Building & tools</b><br><br>
+      AI Lightroom<br>
       Python · Linux · Git<br>
-      scikit-learn<br>
       ESM2 · SCEPTR
     </td>
   </tr>
 </table>
+
+## Current build — AI Lightroom
+
+<p align="center">
+  <a href="https://github.com/Garry-Tang-274/AI-Lightroom"><img src="https://raw.githubusercontent.com/Garry-Tang-274/AI-Lightroom/main/docs/assets/application-shell.png" width="100%" alt="AI Lightroom application interface"></a>
+</p>
+
+**[AI Lightroom ↗](https://github.com/Garry-Tang-274/AI-Lightroom)** is a Windows desktop photo editor built around non-destructive traditional adjustments with optional natural-language AI colour-grading plans. Manual controls and AI providers share one editing state; the local renderer applies supported parameters, HSL, curves, masks, and watermark layers instead of redrawing or replacing the photograph.
+
+The provider system currently supports local and cloud routes including JarvisArt Local GGUF, Gemini, OpenAI, Qwen / DashScope, DeepSeek text adjustments, and custom OpenAI-compatible APIs. Manual editing does not require an AI account.
+
+<sub>这是最近持续开发的桌面摄影工具：传统参数调整负责真正修改像素，AI 负责可选的自然语言调色方案，不把照片生成式重绘成另一张图。</sub>
 
 ## Research
 
@@ -80,11 +94,9 @@ I also contribute computational analysis planning for a National-Level Student R
 ## Photography
 
 <p align="center">
-  <a href="https://garry-tang-274.github.io/assets/photography/hangzhou-qianjiang-panorama-hq.png?v=20260806-original">
-    <img src="https://garry-tang-274.github.io/assets/photography/hangzhou-qianjiang-panorama-hq.png?v=20260806-original" width="100%" alt="Qianjiang Century City panorama in Hangzhou">
-  </a>
+  <a href="https://garry-tang-274.github.io/photography/"><img src="https://garry-tang-274.github.io/assets/photography/hangzhou-qianjiang-panorama-hq.png?v=20260806-original" width="100%" alt="Qianjiang Century City panorama in Hangzhou"></a>
   <br>
-  <sub>Qianjiang Century City · Hangzhou, 2026 · Nikon Z6 II · Click to open original</sub>
+  <sub>Qianjiang Century City · Hangzhou, 2026 · Nikon Z6 II · Updated high-resolution version will replace this web copy</sub>
 </p>
 
 <table>
