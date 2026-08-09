@@ -94,7 +94,7 @@ I also contribute computational analysis planning for a National-Level Student R
 ## Photography
 
 <p align="center">
-  <a href="https://garry-tang-274.github.io/photography/"><img src="https://garry-tang-274.github.io/assets/photography/featured/hangzhou-qianjiang-panorama-2026.avif?v=20260809-hq" width="100%" alt="Qianjiang Century City panorama in Hangzhou"></a>
+  <a href="https://garry-tang-274.github.io/photography/"><img src="https://garry-tang-274.github.io/assets/photography/featured/hangzhou-qianjiang-panorama-2026.avif?v=20260809-hq-final-smallwm" width="100%" alt="Qianjiang Century City panorama in Hangzhou"></a>
   <br>
   <sub>Qianjiang Century City · Hangzhou, 2026 · Nikon Z6 II · Updated edition</sub>
 </p>
