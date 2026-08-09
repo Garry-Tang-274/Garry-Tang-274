@@ -94,27 +94,27 @@ I also contribute computational analysis planning for a National-Level Student R
 ## Photography
 
 <p align="center">
-  <a href="https://garry-tang-274.github.io/assets/photography/featured/hangzhou-qianjiang-panorama-2026.avif?v=20260809">
-    <img src="https://garry-tang-274.github.io/assets/photography/featured/hangzhou-qianjiang-panorama-2026.avif?v=20260809" width="100%" alt="Qianjiang Century City panorama in Hangzhou">
-  </a>
+  <a href="https://garry-tang-274.github.io/photography/"><img src="https://garry-tang-274.github.io/assets/photography/featured/hangzhou-qianjiang-panorama-2026.avif?v=20260809-hq" width="100%" alt="Qianjiang Century City panorama in Hangzhou"></a>
   <br>
-  <sub>Qianjiang Century City · Hangzhou, 2026 · Nikon Z6 II</sub>
+  <sub>Qianjiang Century City · Hangzhou, 2026 · Nikon Z6 II · Updated edition</sub>
 </p>
 
 <table>
   <tr>
-    <td width="50%"><img src="https://garry-tang-274.github.io/assets/photography/featured/haining-tidal-flat-worker-2025.avif?v=20260809" width="100%" alt="A lone figure crossing a tidal flat in Haining"></td>
-    <td width="50%"><img src="https://garry-tang-274.github.io/assets/photography/featured/guangxi-man-cormorant-2026.avif?v=20260809" width="100%" alt="A man beside a cormorant in Guangxi"></td>
+    <td width="50%"><img src="https://garry-tang-274.github.io/assets/photography/yangshuo-xianggong-river.webp?v=20260806-hq2" width="100%" alt="Xianggong Mountain in Yangshuo"></td>
+    <td width="50%"><img src="https://garry-tang-274.github.io/assets/photography/xinjiang-desert-road.webp?v=20260806-hq2" width="100%" alt="Gobi road in Xinjiang"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Returning Across the Tidal Flat · Haining, 2025 · Nikon Z6 II</sub></td>
-    <td align="center"><sub>Man and Cormorant · Guangxi, 2026 · Nikon Z6 II</sub></td>
+    <td align="center"><sub>Xianggong Mountain · Yangshuo, 2025</sub></td>
+    <td align="center"><sub>Gobi Road · Xinjiang, 2023</sub></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://garry-tang-274.github.io/assets/photography/featured/yunnan-hani-terraces-village-2023.avif?v=20260809" width="100%" alt="Hani rice terraces and a mountain village in Honghe, Yunnan"></td>
+    <td width="50%"><img src="https://garry-tang-274.github.io/assets/photography/chengdu-rain-couple.webp?v=20260806-hq2" width="100%" alt="Two people sharing an umbrella in Chengdu"></td>
+    <td width="50%"><img src="https://garry-tang-274.github.io/assets/photography/chengdu-heron-rain.webp?v=20260806-hq2" width="100%" alt="Heron standing in the rain"></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><sub>Clouds over the Hani Terraces · Honghe, Yunnan, 2023 · DJI Mini 2</sub></td>
+    <td align="center"><sub>Rain Crossing · Chengdu, 2026</sub></td>
+    <td align="center"><sub>Heron in Rain · Chengdu, 2026</sub></td>
   </tr>
 </table>
 
