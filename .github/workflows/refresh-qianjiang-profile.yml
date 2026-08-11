@@ -1,0 +1,52 @@
+name: Refresh Qianjiang profile image cache
+
+on:
+  push:
+    branches:
+      - fix/qianjiang-cache-20260811
+    paths:
+      - '.qianjiang-cache-ready'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current profile main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Change only the Qianjiang image cache token
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          p = Path('README.md')
+          text = p.read_text(encoding='utf-8')
+          pattern = r'(https://garry-tang-274\.github\.io/assets/photography/featured/hangzhou-qianjiang-panorama-2026\.avif)(?:\?v=[A-Za-z0-9._-]+)?'
+          updated, count = re.subn(pattern, r'\1?v=20260811-hq-final', text)
+          if count != 1:
+              raise SystemExit(f'Expected exactly one Qianjiang profile image reference, found {count}')
+          p.write_text(updated, encoding='utf-8')
+          PY
+
+      - name: Commit README only if needed
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- README.md; then
+            echo 'README already points to the final Qianjiang asset.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README.md
+          git diff --cached --check
+          git commit -m 'Refresh Qianjiang Century City profile image'
+          git push origin HEAD:main
