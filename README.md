@@ -44,7 +44,7 @@ I am a Biomedical Informatics undergraduate at the Zhejiang University–Univers
 
 **[AI Lightroom ↗](https://github.com/Garry-Tang-274/AI-Lightroom)** is a Windows desktop photo editor built around non-destructive traditional adjustments with optional natural-language AI colour-grading plans. Manual controls and AI providers share one editing state; the local renderer applies supported parameters, HSL, curves, masks, and watermark layers instead of redrawing or replacing the photograph.
 
-The provider system currently supports local and cloud routes including JarvisArt Local GGUF, Gemini, OpenAI, Qwen / DashScope, DeepSeek text adjustments, and custom OpenAI-compatible APIs. Manual editing does not require an AI account.
+The provider system currently supports local and cloud routes including JarvisArt Local GGUF, Gemini, OpenAI, Qwen / DashScope, DeepSeek text adjustments, and custom OpenAI-compatible APIs. Manual editing does not require an AI account. The JarvisArt documentation also covers sharing one localhost bridge with a Lightroom Classic plugin without starting duplicate model processes.
 
 <sub>这是最近持续开发的桌面摄影工具：传统参数调整负责真正修改像素，AI 负责可选的自然语言调色方案，不把照片生成式重绘成另一张图。</sub>
 
@@ -75,12 +75,12 @@ I also contribute computational analysis planning for a National-Level Student R
   <tr>
     <td width="33%" valign="top">
       <b><a href="https://github.com/Garry-Tang-274/bioinformatics-paper-reading-workflow">Bioinformatics Paper Reading Workflow ↗</a></b><br><br>
-      Templates and checklists for close reading, evidence extraction, and methodological review.<br><br>
+      Reading, methodological audit, and reproduction-readiness checklists for bioinformatics papers.<br><br>
       <code>bioinformatics</code> <code>workflow</code>
     </td>
     <td width="33%" valign="top">
       <b><a href="https://github.com/Garry-Tang-274/windows-remote-research-playbook">Windows Remote Research Playbook ↗</a></b><br><br>
-      Practical notes on SSH, VPN routing, Python environments, and remote research work.<br><br>
+      Practical notes on SSH, VPN/TUN routing, system proxies, Python environments, and remote research work.<br><br>
       <code>linux</code> <code>remote</code>
     </td>
     <td width="33%" valign="top">
