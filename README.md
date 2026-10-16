@@ -7,9 +7,9 @@
   <a href="mailto:zhi.25@intl.zju.edu.cn"><img src="https://img.shields.io/badge/Academic_Email-17304a?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Academic email"></a>
 </p>
 
-I am a Biomedical Informatics undergraduate at the Zhejiang University–University of Edinburgh Institute. My current research focuses on computational immunology, TCR sequence analysis, and reliable evaluation of machine-learning methods for biological data. Outside research, I build small software tools and maintain a long-term photography archive.
+Hi, I'm Zhi Tang, a Biomedical Informatics undergraduate at the Zhejiang University–University of Edinburgh Institute. Most of my research time goes into TCR sequence analysis. I also build tools for problems I actually run into—from reading papers and working on remote servers to photo editing and keeping my schedule in order.
 
-<sub>生物医学信息学本科生；目前主要做计算免疫学与 TCR 序列分析，同时持续进行软件开发与摄影。</sub>
+<sub>生物医学信息学本科生。目前主要做 TCR 序列分析，也会把科研、摄影和日常里反复遇到的问题做成小工具。</sub>
 
 <table>
   <tr>
@@ -38,11 +38,11 @@ I am a Biomedical Informatics undergraduate at the Zhejiang University–Univers
 
 ![AI Lightroom application interface](https://raw.githubusercontent.com/Garry-Tang-274/AI-Lightroom/main/docs/assets/application-shell.png?v=20261016-1)
 
-**[AI Lightroom ↗](https://github.com/Garry-Tang-274/AI-Lightroom)** is a Windows desktop photo editor built around non-destructive traditional adjustments with optional natural-language AI colour-grading plans. Manual controls and AI providers share one editing state; the local renderer applies supported parameters, HSL, curves, masks, and watermark layers instead of redrawing or replacing the photograph.
+**[AI Lightroom ↗](https://github.com/Garry-Tang-274/AI-Lightroom)** is the project I've been spending the most time on lately. It is a Windows photo editor with regular exposure, colour, curves, HSL, masks, history and export controls, plus an optional prompt box for turning a description into edit settings.
 
-The provider system currently supports local and cloud routes including JarvisArt Local GGUF, Gemini, OpenAI, Qwen / DashScope, DeepSeek text adjustments, and custom OpenAI-compatible APIs. Manual editing does not require an AI account. The JarvisArt documentation also covers sharing one localhost bridge with a Lightroom Classic plugin without starting duplicate model processes.
+It can use cloud models or a local JarvisArt bridge. I have also been working on making that local service coexist cleanly with Lightroom Classic instead of starting duplicate model processes.
 
-<sub>这是最近持续开发的桌面摄影工具：传统参数调整负责真正修改像素，AI 负责可选的自然语言调色方案，不把照片生成式重绘成另一张图。</sub>
+<sub>最近主要在做这个：一个 Windows 照片编辑器。常规调色可以完全手动完成，也可以用自然语言生成一组可继续修改的参数。</sub>
 
 ## Research
 
@@ -50,9 +50,9 @@ The provider system currently supports local and cloud routes including JarvisAr
 
 ### TCR α–β pairing compatibility
 
-My current project asks how much information related to TCR α–β compatibility is retained in frozen sequence representations. I work on sequence and metadata QC, matched negative sampling, within-individual candidate sets, ranking evaluation, cross-validation, residual analysis, and decoy-β comparisons.
+I'm working on TCR α–β pairing and sequence representations. A lot of the work is less glamorous than training a model: cleaning sequence and metadata, building fair negative sets, checking individual-level leakage, comparing rankings, and seeing whether a result survives stricter controls.
 
-I also contribute computational analysis planning for a National-Level Student Research Training Program involving paired TCR and NGS measurements.
+I also take part in the computational side of a student research project involving paired TCR and NGS data.
 
 <p>
   <img src="https://img.shields.io/badge/Sequence_QC-0f766e?style=flat-square" alt="Sequence QC">
@@ -67,20 +67,27 @@ I also contribute computational analysis planning for a National-Level Student R
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/Garry-Tang-274/bioinformatics-paper-reading-workflow">Bioinformatics Paper Reading Workflow ↗</a></b><br><br>
-      Reading, methodological audit, and reproduction-readiness checklists for bioinformatics papers.<br><br>
-      <code>bioinformatics</code> <code>workflow</code>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Garry-Tang-274/AI-Lightroom">AI Lightroom ↗</a></b><br><br>
+      A Windows photo editor with manual controls, local/cloud AI providers, and non-destructive edit history.<br><br>
+      <code>photography</code> <code>desktop</code>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Garry-Tang-274/bioinformatics-paper-reading-workflow">Paper Reading Workflow ↗</a></b><br><br>
+      The checklists I use for reading methods papers, checking claims, and deciding whether a result is actually reproducible.<br><br>
+      <code>bioinformatics</code> <code>reading</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <b><a href="https://github.com/Garry-Tang-274/windows-remote-research-playbook">Windows Remote Research Playbook ↗</a></b><br><br>
-      Practical notes on SSH, VPN/TUN routing, system proxies, Python environments, and remote research work.<br><br>
-      <code>linux</code> <code>remote</code>
+      Notes from real SSH, VPN, TUN, proxy and remote-development problems I've had to fix.<br><br>
+      <code>ssh</code> <code>windows</code>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <b><a href="https://github.com/Garry-Tang-274/student-calendar-coordinator">Student Calendar Coordinator ↗</a></b><br><br>
-      A human-in-the-loop workflow for merging schedules, deadlines, email updates, and calendars.<br><br>
-      <code>automation</code> <code>workflow</code>
+      A practical set of rules for turning mail, Blackboard updates and deadlines into a cleaner calendar without creating duplicates.<br><br>
+      <code>calendar</code> <code>workflow</code>
     </td>
   </tr>
 </table>
@@ -93,11 +100,11 @@ I also contribute computational analysis planning for a National-Level Student R
 
 <table>
   <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274.github.io/main/assets/photography/featured/yunnan-hani-terraces-village-2023-original.jpg?v=20261016-1" width="100%" alt="Hani rice terraces and a mountain village surrounded by low clouds in Honghe, Yunnan"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274.github.io/main/assets/photography/xinjiang-desert-road.webp?v=20261016-road" width="100%" alt="A road cutting through open desert terrain in Xinjiang"></td>
     <td width="50%"><img src="https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274.github.io/main/assets/photography/featured/guangxi-man-cormorant-2026-original.jpg?v=20261016-1" width="100%" alt="A man in a straw hat sitting beside a cormorant in Guangxi"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Clouds over the Hani Terraces · Yunnan, 2023</sub></td>
+    <td align="center"><sub>Road Through Open Earth · Xinjiang, 2023 · DJI Mini 2</sub></td>
     <td align="center"><sub>Man and Cormorant · Guangxi, 2026</sub></td>
   </tr>
   <tr>
