@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Zhi Tang — Biomedical Informatics, computational immunology, software and photography">
-</p>
+![Zhi Tang — Biomedical Informatics, computational immunology, software and photography](https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274/main/assets/profile-hero.svg?v=20261016-1)
 
 <p align="center">
   <a href="https://garry-tang-274.github.io"><img src="https://img.shields.io/badge/Personal_Website-d8aa56?style=for-the-badge&logo=githubpages&logoColor=07111f" alt="Personal website"></a>
@@ -38,9 +36,7 @@ I am a Biomedical Informatics undergraduate at the Zhejiang University–Univers
 
 ## Current build — AI Lightroom
 
-<p align="center">
-  <a href="https://github.com/Garry-Tang-274/AI-Lightroom"><img src="https://raw.githubusercontent.com/Garry-Tang-274/AI-Lightroom/main/docs/assets/application-shell.png" width="100%" alt="AI Lightroom application interface"></a>
-</p>
+![AI Lightroom application interface](https://raw.githubusercontent.com/Garry-Tang-274/AI-Lightroom/main/docs/assets/application-shell.png?v=20261016-1)
 
 **[AI Lightroom ↗](https://github.com/Garry-Tang-274/AI-Lightroom)** is a Windows desktop photo editor built around non-destructive traditional adjustments with optional natural-language AI colour-grading plans. Manual controls and AI providers share one editing state; the local renderer applies supported parameters, HSL, curves, masks, and watermark layers instead of redrawing or replacing the photograph.
 
@@ -50,9 +46,7 @@ The provider system currently supports local and cloud routes including JarvisAr
 
 ## Research
 
-<p align="center">
-  <img src="./assets/research-map.svg" width="100%" alt="Research focus and evaluation workflow">
-</p>
+![Research focus and evaluation workflow](https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274/main/assets/research-map.svg?v=20261016-1)
 
 ### TCR α–β pairing compatibility
 
@@ -93,24 +87,22 @@ I also contribute computational analysis planning for a National-Level Student R
 
 ## Photography
 
-<p align="center">
-  <a href="https://garry-tang-274.github.io/photography/"><img src="https://garry-tang-274.github.io/assets/photography/featured/hangzhou-qianjiang-panorama-2026-original.jpg?v=20260812-original" width="100%" alt="Qianjiang Century City panorama in Hangzhou"></a>
-  <br>
-  <sub>Qianjiang Century City · Hangzhou, 2026 · Nikon Z6 II · Updated edition</sub>
-</p>
+![Qianjiang Century City panorama in Hangzhou](https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274.github.io/main/assets/photography/featured/hangzhou-qianjiang-panorama-2026-original.jpg?v=20261016-1)
+
+<p align="center"><sub>Qianjiang Century City · Hangzhou, 2026 · Nikon Z6 II</sub></p>
 
 <table>
   <tr>
-    <td width="50%"><img src="https://garry-tang-274.github.io/assets/photography/featured/yunnan-hani-terraces-village-2023-original.jpg?v=20260812-original" width="100%" alt="Hani rice terraces and a mountain village surrounded by low clouds in Honghe, Yunnan"></td>
-    <td width="50%"><img src="https://garry-tang-274.github.io/assets/photography/featured/guangxi-man-cormorant-2026-original.jpg?v=20260812-original" width="100%" alt="A man in a straw hat sitting beside a cormorant in Guangxi"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274.github.io/main/assets/photography/featured/yunnan-hani-terraces-village-2023-original.jpg?v=20261016-1" width="100%" alt="Hani rice terraces and a mountain village surrounded by low clouds in Honghe, Yunnan"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274.github.io/main/assets/photography/featured/guangxi-man-cormorant-2026-original.jpg?v=20261016-1" width="100%" alt="A man in a straw hat sitting beside a cormorant in Guangxi"></td>
   </tr>
   <tr>
     <td align="center"><sub>Clouds over the Hani Terraces · Yunnan, 2023</sub></td>
     <td align="center"><sub>Man and Cormorant · Guangxi, 2026</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://garry-tang-274.github.io/assets/photography/featured/haining-tidal-flat-worker-2025-original.jpg?v=20260812-original" width="100%" alt="A lone figure walking across a tidal flat in black and white"></td>
-    <td width="50%"><img src="https://garry-tang-274.github.io/assets/photography/chengdu-rain-biker.webp?v=20260806-hq" width="100%" alt="A rider seen from behind on a rainy city street"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274.github.io/main/assets/photography/featured/haining-tidal-flat-worker-2025-original.jpg?v=20261016-1" width="100%" alt="A lone figure walking across a tidal flat in black and white"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274.github.io/main/assets/photography/chengdu-rain-biker.webp?v=20261016-1" width="100%" alt="A rider seen from behind on a rainy city street"></td>
   </tr>
   <tr>
     <td align="center"><sub>Returning Across the Tidal Flat · Haining, 2025</sub></td>
