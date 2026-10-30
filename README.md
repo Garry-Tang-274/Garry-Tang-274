@@ -19,7 +19,7 @@ My recent work has focused on:
 
 - Comparing sequence and structure models against single-chain and metadata baselines.
 - Re-examining cross-chain V/J-gene signals using held-out chains and external datasets.
-- Organising public TCR–pMHC functional measurements with their assay, construct, and cell context, so that comparisons refer to the same biological question.
+- Curating public TCR–pMHC functional measurements, with the assay, construct, and cell context recorded for each result.
 
 Alongside this, I analyse paired TCR repertoire data in a student research project on CD4/CD8 cellular context.
 
@@ -64,23 +64,12 @@ Alongside this, I analyse paired TCR repertoire data in a student research proje
 
 ## Away from the keyboard
 
-I photograph streets, people, architecture, and landscapes. A few photographs below; the rest are on my [photography page](https://garry-tang-274.github.io/photography/).
+I photograph streets, people, architecture, and landscapes. One from Hangzhou below; more on my [photography page](https://garry-tang-274.github.io/photography/).
 
 <a href="https://garry-tang-274.github.io/photography/">
   <img src="https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274.github.io/main/assets/photography/featured/hangzhou-qianjiang-panorama-2026-original.jpg" alt="Qianjiang Century City reflected across the river in Hangzhou" width="100%">
 </a>
 <p align="center"><sub>Qianjiang Century City · Hangzhou, 2026 · Nikon Z6 II</sub></p>
-
-<table>
-  <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274.github.io/main/assets/photography/xinjiang-desert-road.webp" width="100%" alt="An aerial view of a road crossing the desert in Xinjiang"></td>
-    <td width="50%"><img src="https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274.github.io/main/assets/photography/featured/guangxi-man-cormorant-2026-original.jpg" width="100%" alt="A man in a straw hat sitting beside a cormorant in Guangxi"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Road Through Open Earth · Xinjiang, 2023 · DJI Mini 2</sub></td>
-    <td align="center"><sub>Man and Cormorant · Guangxi, 2026</sub></td>
-  </tr>
-</table>
 
 ---
 
