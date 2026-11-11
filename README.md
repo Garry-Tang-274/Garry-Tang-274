@@ -30,9 +30,23 @@ Alongside this, I analyse paired TCR repertoire data in a student research proje
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Garry-Tang-274/light-between-gallery">光隙 · LIGHT BETWEEN</a></h3>
+      A photographic exhibition with a continuous 3D scene, an image atlas and a searchable contact sheet. The public demo contains three photographs.
+      <p><a href="https://garry-tang-274.github.io/light-between-gallery/">Open exhibition →</a></p>
+      <p><sub>PHOTOGRAPHY · THREE.JS</sub></p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Garry-Tang-274/Blackboard-AutoSync">Blackboard AutoSync</a></h3>
-      A Windows tool for keeping course materials in order: select courses, preserve Blackboard folder structure, download updates, and retain earlier file versions. Includes a Chinese settings interface.
-      <p><sub>COURSE MATERIALS · WINDOWS</sub></p>
+      A Windows course-material downloader with course selection, version history and a Chinese settings interface. The optional study queue now follows class dates and keeps delivery separate from completion.
+      <p><sub>COURSE MATERIALS · PYTHON</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Garry-Tang-274/today-task-board">一页 · Today Task Board</a></h3>
+      A single HTML file for today’s tasks: priorities, dates, completion and JSON backup. Works offline; tasks stay in the browser.
+      <p><a href="https://garry-tang-274.github.io/today-task-board/">Open task board →</a></p>
+      <p><sub>OFFLINE · NO BUILD STEP</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Garry-Tang-274/battlefield-web-fps-prototype">Archipelago Frontline</a></h3>
@@ -43,22 +57,23 @@ Alongside this, I analyse paired TCR repertoire data in a student research proje
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://garry-tang-274.github.io/toybox/">怪玩具盒 · Toybox</a></h3>
-      Eighteen small interactive worlds in one page: photography games, drawing, puzzles, simulations, and sound experiments.
-      <p><a href="https://github.com/Garry-Tang-274/Garry-Tang-274.github.io/blob/main/toybox/index.html">View source →</a></p>
-      <p><sub>BROWSER EXPERIMENTS</sub></p>
+      <h3><a href="https://github.com/Garry-Tang-274/AI-Lightroom">AI Lightroom</a></h3>
+      My Windows photo editor, with exposure, colour, curves, HSL, masks, edit history and full-resolution export. Optional text instructions produce settings that can still be adjusted by hand.
+      <p><a href="https://github.com/Garry-Tang-274/AI-Lightroom/releases/latest">Download for Windows →</a></p>
+      <p><sub>PHOTOGRAPHY · DESKTOP</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Garry-Tang-274/AI-Lightroom">AI Lightroom</a></h3>
-      My Windows photo editor, with exposure, colour, curves, HSL, masks, edit history, and export controls. Optional text instructions produce settings that can still be adjusted by hand.
-      <p><sub>PHOTOGRAPHY · DESKTOP</sub></p>
+      <h3><a href="https://github.com/Garry-Tang-274/Garry-Tang-274.github.io/blob/main/toybox/index.html">怪玩具盒 · Toybox</a></h3>
+      Eighteen small interactive worlds in one page: photography games, drawing, puzzles, simulations and sound experiments.
+      <p><a href="https://garry-tang-274.github.io/toybox/">Open Toybox →</a></p>
+      <p><sub>BROWSER EXPERIMENTS</sub></p>
     </td>
   </tr>
 </table>
 
 ### Notes and working guides
 
-- **[Bioinformatics Paper Reading Workflow](https://github.com/Garry-Tang-274/bioinformatics-paper-reading-workflow)** — a structure for reading methods papers, checking baselines, and planning reproductions.
+- **[Bioinformatics Paper Reading Workflow](https://github.com/Garry-Tang-274/bioinformatics-paper-reading-workflow)** — checklists for methods papers, fair baselines, measurement provenance and reproduction planning.
 - **[Windows Remote Research Playbook](https://github.com/Garry-Tang-274/windows-remote-research-playbook)** — notes on SSH, remote environments, and connection problems.
 - **[Student Calendar Coordinator](https://github.com/Garry-Tang-274/student-calendar-coordinator)** — a workflow for reviewing course updates, email, and deadlines before adding them to a calendar.
 
