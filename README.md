@@ -82,7 +82,7 @@ Alongside this, I analyse paired TCR repertoire data in a student research proje
 I photograph streets, people, architecture, and landscapes. One from Hangzhou below; more on my [photography page](https://garry-tang-274.github.io/photography/).
 
 <a href="https://garry-tang-274.github.io/photography/">
-  <img src="https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274.github.io/main/assets/photography/featured/hangzhou-qianjiang-panorama-2026-original.jpg" alt="Qianjiang Century City reflected across the river in Hangzhou" width="100%">
+  <img src="https://raw.githubusercontent.com/Garry-Tang-274/Garry-Tang-274.github.io/main/assets/photography/gallery/photo-3953d6e4858d3e71-1600.webp" alt="Qianjiang Century City reflected across the river in Hangzhou" width="100%">
 </a>
 <p align="center"><sub>Qianjiang Century City · Hangzhou, 2026 · Nikon Z6 II</sub></p>
 
